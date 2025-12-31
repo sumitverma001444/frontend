@@ -2,7 +2,7 @@ import {getAuth, GoogleAuthProvider} from "firebase/auth"
 import { initializeApp } from "firebase/app";
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_APIKEY ,
-  authDomain: "zoyaelegance.com",
+  authDomain: "zoyaelegance-b2a29.firebaseapp.com",
   projectId: "zoyaelegance-b2a29",
   storageBucket: "zoyaelegance-b2a29.firebasestorage.app",
   messagingSenderId: "239615901164",
